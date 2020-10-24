@@ -1,1 +1,1 @@
-# Transfer-learning_MobileNetV
+# Transfer-learning_MobileNetV2_flower_categorization
